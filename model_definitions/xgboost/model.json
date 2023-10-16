@@ -1,6 +1,6 @@
 {
     "id": "03c9a01f-bd46-4e7c-9a60-4282039094e6",
-    "name": "Modelo de Cobranzas - XGBoost",
-    "description": "Modelo de Cobranzas utilizando el algoritmo XGBoost - Champion",
+    "name": "Modelo XGBoost",
+    "description": "Modelo utilizando el algoritmo XGBoost",
     "language": "python"
 }

@@ -1,7 +1,7 @@
 {
     "hyperParameters": {
-        "learning_rate": 0.1,
-        "max_depth": 6,
-        "num_leaves": 50
+        "learning_rate": 0.15,
+        "max_depth": 3,
+        "num_leaves": 30
     }
 }

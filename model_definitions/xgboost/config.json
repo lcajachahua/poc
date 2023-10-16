@@ -1,0 +1,6 @@
+{
+	"hyperParameters": {
+		"n_estimators": 150,
+		"max_depth": 5
+	}
+}

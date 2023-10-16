@@ -32,7 +32,7 @@ def evaluate(context: ModelContext, **kwargs):
     y_pred = model.predict(X_test)
 
     y_pred_tdf = pd.DataFrame(y_pred, columns=[target_name])
-    y_pred_tdf["lab_0002"] = test_pdf["lab_0002"].values
+    y_pred_tdf["LAB_0002"] = test_pdf["LAB_0002"].values
 
     evaluation = {
         'Accuracy': '{:.2f}'.format(metrics.accuracy_score(y_test, y_pred)),
